@@ -6,6 +6,8 @@ body {
 h1 {
 	font-family: sans-serif;
 	font-size: 3em;
-	line-height: 100%;
+	line-height: 300px;
 	text-align: center;
+	color: white;
+	margin-top: calc(50% - 150px);
 }
